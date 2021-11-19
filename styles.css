@@ -102,6 +102,10 @@ group>.card:not(:last-child) .card-img-top {
     h3{
         font-size: 1.5rem;
     }
+      .w-100 {
+        width: 100%!important;
+        height: 450;
+    }
 }
 
 element.style {
@@ -145,5 +149,6 @@ section.my-3{
     color: white;
     padding: 30px;
 }
+
 
 
